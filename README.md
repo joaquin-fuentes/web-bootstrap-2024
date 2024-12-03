@@ -8,4 +8,3 @@ Es una página para comprar cursos en línea.
 - CSS
 - Bootstrap
 
-Este proyecto es para ustedes!!
